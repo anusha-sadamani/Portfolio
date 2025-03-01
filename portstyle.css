@@ -17,7 +17,7 @@
   
 
   header {
-    background: linear-gradient(135deg, #030816 0%, #050218 100%);
+    background: linear-gradient(135deg, #03081678 0%, #050218f0 100%);
     color: rgb(243, 238, 238);
     text-align: center;
     padding: 60px 20px;
@@ -105,7 +105,7 @@
     background-color: rgb(7, 2, 20);
     padding: 3px 8px;
     border-radius: 4px;
-    transition: all 0.3s ease;
+  
   }
   
   footer a:hover {
